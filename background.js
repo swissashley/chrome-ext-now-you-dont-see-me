@@ -38,7 +38,7 @@ chrome.browserAction.onClicked.addListener((tab) => {
         });
         newTabId = '';
         tabsCount = 0;
-        chrome.browserAction.setIcon({path : 'eye_blue.png'});
+        chrome.browserAction.setIcon({path : 'eye_orange.png'});
         chrome.browserAction.setBadgeText({text:''});
       } else {
         // if no folder yet, create the folder and
