@@ -14,6 +14,10 @@ With this extension, users will be able to:
 - [ ] Open your preset homepage when hiding all the tabs.
 - [ ] Use password to restore the tabs.
 
+### Wireframe
+
+![wireframe](wireframes/chrome.png)
+
 ### Technologies & Technical Challenges
 
 This extension will be implemented using the standard Chrome extension technology: Javascript, with chrome API.  In addition to the `manifest.json` and `package.json` files, there will be two scripts:
