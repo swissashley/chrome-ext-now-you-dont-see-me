@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "Now You (Don't) See Me",
+  "description": "this Chrome extension will help you to close all the tabs, save them into a temporary bookmark folder, and restore them later with one button.",
+  "version": "2.0",
+
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "options_page": "options.html",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "webNavigation",
+    "bookmarks",
+    "storage",
+    "http://*/*", "https://*/*"
+  ]
+}
