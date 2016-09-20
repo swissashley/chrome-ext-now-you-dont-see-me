@@ -1,4 +1,4 @@
-## Chrome extension - Now You (don't) See Me
+## Chrome extension - Now You (Don't) See Me
 
 ### Background
 
@@ -22,7 +22,7 @@ With this extension, users will be able to:
 
 This extension will be implemented using the standard Chrome extension technology: Javascript, with chrome API.  In addition to the `manifest.json` and `package.json` files, there will be two scripts:
 
-- `content.js`: will contain the logic hiding and restoring all the tabs.
+- `background.js`: will contain the logic hiding and restoring all the tabs.
 - `options.js`: will contain the logic for changing the user's settings
 
 There will also be one HTML file to display the settings:
@@ -34,7 +34,7 @@ The primary technical challenges will be:
 - Accessing the tabs,
 - Creating temporary bookmarks,
 - Opening up homepage,
-- Building modal ( or html page) and prompt for password.
+- Building modal ( or html page) for preset homepage.
 
 ### Implementation Timeline
 
