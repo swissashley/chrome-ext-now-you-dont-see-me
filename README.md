@@ -56,3 +56,8 @@ The primary technical challenges will be:
 
 - Fully implemented extension.
 - Publish to Google web app store.
+
+** Bonus features
+
+- [ ] Add Filter list for user not to open up specific pages.
+- [ ] Add password protection.
