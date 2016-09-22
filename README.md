@@ -1,5 +1,8 @@
 ## Chrome extension - Now You (Don't) See Me
 
+[Link][nydsm]
+[nydsm]: https://chrome.google.com/webstore/detail/now-you-dont-see-me/chbfbamopjjdfodhafkjhpbolcpnijio
+
 ### Background
 
 Sometimes I don't feel comfortable letting people see the content I am currently browsing when they passing by. Whenever you want to hide all of your tabs,this Chrome extension will help you to close all the tabs, save them into a temporary bookmark folder, and restore them later with one button.
